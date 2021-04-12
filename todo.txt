@@ -1,0 +1,3 @@
+Wat moet ik nog doen:
+-readme.txt bewerken
+-vervang usertabel met je user tabel in je database
